@@ -10,13 +10,16 @@
 #### <div style="text-align: right"> Выполнила студентка  ПМ-41 Лобанова А.Е.</div>
 #### <div style="text-align: right"> Научный руководитель: Лебедев С.А</div>
 
-## report.ipynb - отчет о работе
-  
-## code - папка с кодом
+<br/><br/>
+<br/><br/>
 
-## gif - папка с анимированными графиками
+#### report.ipynb - отчет о работе
   
-## Результаты работы:
+#### code - папка с кодом
+
+#### gif - папка с анимированными графиками
+  
+#### Результаты работы:
   
 ![Alt Text](https://github.com/Moonzyy/bailey_model/blob/master/gif/not_recovery.gif)
 
